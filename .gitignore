@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.zip
+.venv/
+venv/
