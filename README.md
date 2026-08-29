@@ -13,9 +13,9 @@ models, or graphical user interface.
 
 ## Associated article
 
-This source code accompanies the article "Motility-based viability assay for
-screening acid-tolerant microalgae," accepted for publication in *Bioresource
-Technology*.
+This source code accompanies the published article
+["Motility-based viability assay for screening acid-tolerant microalgae"](https://doi.org/10.1016/j.biortech.2026.135644)
+in *Bioresource Technology*.
 
 ## Code author and affiliation
 
