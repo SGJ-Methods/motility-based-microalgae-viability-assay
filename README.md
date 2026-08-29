@@ -17,6 +17,13 @@ This source code accompanies the published article
 ["Motility-based viability assay for screening acid-tolerant microalgae"](https://doi.org/10.1016/j.biortech.2026.135644)
 in *Bioresource Technology*.
 
+**Citation**
+
+Jeong, S.-G., Choi, Y.Y., Kang, S.-M., Lee, E.-H., Choi, H.Y., Yoon, S.,
+Park, S.J., Kim, B.-G., 2027. Motility-based viability assay for screening
+acid-tolerant microalgae. *Bioresource Technology* **463**, 135644.
+[https://doi.org/10.1016/j.biortech.2026.135644](https://doi.org/10.1016/j.biortech.2026.135644)
+
 ## Code author and affiliation
 
 Seong-Geun Jeong  
